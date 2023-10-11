@@ -24,7 +24,7 @@ I'm Mohammed Al-Kebsi, a passionate Full-Stack Software Developer based in Sana'
   - Bachelor of Computer Science, International University of Technology TwinTech, Sana'a, Yemen (2018 - 2022)
     - GPA: 3.87, First Class Honors
 
-- 🌐 **Website**: [mohammed-alkebsi.com](http://mohammed-alkebsi.com)
+- 🌐 **Website**: [mohammed-alkebsi.com](http://mohammed-alkebsi.artech-ye.com)
 - 📞 **Phone**: +967 773 040 423
 - 📧 **Email**: mohammedalkebsi30@gmail.com
 
@@ -62,5 +62,5 @@ I'm Mohammed Al-Kebsi, a passionate Full-Stack Software Developer based in Sana'
   
 ---
 
-🌟 Let's connect and collaborate! Feel free to reach out to me through the provided contact details. Looking forward to exciting projects and new opportunities! 🌟
+🌟 Let's connect and collaborate, or even just have a pizza together! Feel free to reach out to me through the provided contact details. Looking forward to exciting projects and new opportunities! 🌟
 
