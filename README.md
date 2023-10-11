@@ -13,11 +13,11 @@ I'm Mohammed Al-Kebsi, a passionate Full-Stack Software Developer based in Sana'
 🚀 Here's a bit about me:
 
 - 💼 **Professional Experience**:
-  - Full-Stack Software Developer at ThirdEye, Sana'a (2023 - Present)
+  - Full-Stack Software Developer at [ThirdEye](https://www.facebook.com/thirdeyesoft), Sana'a (2023 - Present)
     - Lead backend development, optimize databases, mentor junior developers.
-  - Co-founder/CEO at Artech, Sana'a (2023 - Present)
+  - Co-founder/CEO at [Artech](https://www.facebook.com/artech.ye), Sana'a (2023 - Present)
     - Created marketing materials and managed multiple projects.
-  - Full-Stack Software Developer at MSoft, Sana'a (2021 - 2023)
+  - Full-Stack Software Developer at [MSoft](https://www.facebook.com/msoftar), Sana'a (2021 - 2023)
     - Developed core products including MAlmutakamil and Smart.
     
 - 🎓 **Education**:
