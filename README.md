@@ -64,3 +64,10 @@ I'm Mohammed Al-Kebsi, a passionate Full-Stack Software Developer based in Sana'
 
 🌟 Let's connect and collaborate, or even just have a pizza together! Feel free to reach out to me through the provided contact details. Looking forward to exciting projects and new opportunities! 🌟
 
+<hr/>
+<img src="https://github-readme-stats.vercel.app/api?username=Nao-30&count_private=true&show_icons=true&hide_title=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nao-30&theme=flat&no-frame=true&margin-w=30" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nao-30&hide_title=true&layout=compact" />
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nao-30&theme=gruvbox_duo&hide_border=true)](https://github.com/Nao-30)
+
