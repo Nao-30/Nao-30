@@ -7,7 +7,7 @@ I'm Mohammed Al-Kebsi, a passionate Full-Stack Software Developer based in Sana'
 
 💬 Feel free to ask me about software development, Laravel, or any other programming-related topic.
 
-📫 You can reach me at mohammedalkebsi30@gmail.com or through my website [mohammed-alkebsi.com](http://mohammed-alkebsi.artech-ye.com).
+📫 You can reach me at mohammedalkebsi30@gmail.com or through my website [🌐](https://mohammed-al-kebsi.space/).
 
 ⚡ Fun fact: I love coding, reading, and exploring new technologies. Oh, and did I mention pizza?
 
@@ -25,7 +25,7 @@ I'm Mohammed Al-Kebsi, a passionate Full-Stack Software Developer based in Sana'
   - Bachelor of Computer Science, International University of Technology TwinTech, Sana'a, Yemen (2018 - 2022)
     - GPA: 3.87, First Class Honors
 
-- 🌐 **Website**: [mohammed-alkebsi.com](http://mohammed-alkebsi.artech-ye.com)
+- 🌐 **Website**: [mohammed-alkebsi.com](https://mohammed-al-kebsi.space/)
 - 📞 **Phone**: +967 773 040 423
 - 📧 **Email**: mohammedalkebsi30@gmail.com
 
