@@ -11,6 +11,10 @@ I'm Mohammed Al-Kebsi, a passionate Full-Stack Software Developer based in Sana'
 
 ⚡ Fun fact: I love coding, reading, and exploring new technologies. Oh, and did I mention pizza?
 
+📫 You can reach me at mohammedalkebsi30@gmail.com or through my website [🌐](https://mohammed-al-kebsi.space/).
+
+🗞️ You can find some new intresting stuff [here](https://blog.mohammed-al-kebsi.space/)
+
 🚀 Here's a bit about me:
 
 - 💼 **Professional Experience**:
