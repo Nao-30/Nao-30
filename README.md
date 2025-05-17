@@ -1,3 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
+
 <a href="https://app.daily.dev/mohammedn"><img src="https://api.daily.dev/devcards/v2/d78F29LwLbhA9koafjq7Z.png?type=wide&r=q3d" width="652" alt="Mohammed Al-Kebsi's Dev Card"/></a>
 ### Hi there 👋
 
