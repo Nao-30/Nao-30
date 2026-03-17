@@ -29,8 +29,10 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E2%9A%A1+Building+tools+that+build+tools;%F0%9F%94%A7+Turning+complexity+into+elegant+systems;%F0%9F%A7%A0+Never+give+up+until+it+works" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=93&lines=%E2%9A%A1+Building+tools+that+build+tools;%F0%9F%94%A7+Turning+complexity+into+elegant+systems;%F0%9F%A7%A0+Never+give+up+until+it+works" alt="Typing SVG" />
 
+<br>
+<br>
 <br>
 
 <!-- Available Badge -->
@@ -359,7 +361,7 @@ A robust VPS script orchestration engine. State tracking. Dependency resolution.
 <table>
 <tr>
 <td width="80" align="center">
-<img src="https://img.icons8.com/color/48/springer.png" width="40" alt="Springer"/>
+<img src="https://img.shields.io/badge/S-0d47a1?style=for-the-badge&labelColor=0d1117" alt="Springer"/>
 </td>
 <td>
 
@@ -370,7 +372,7 @@ A robust VPS script orchestration engine. State tracking. Dependency resolution.
 <sub>Achieved <b>93% accuracy</b> on masked face recognition during COVID-19 pandemic</sub>
 <br><br>
 <a href="https://link.springer.com/chapter/10.1007/978-3-031-36670-3_3">
-<img src="https://img.shields.io/badge/Read_Paper-Springer-3b82f6?style=flat-square&logo=springer&logoColor=white" alt="Paper"/>
+<img src="https://img.shields.io/badge/S-Springer-0d47a1?style=for-the-badge&labelColor=0d1117" alt="Springer"/>
 </a>
 
 </td>
@@ -417,7 +419,10 @@ A robust VPS script orchestration engine. State tracking. Dependency resolution.
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nao-30&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies"/>
+<img src="https://img.shields.io/badge/🏆_Commits-A+-1e3a5f?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🏆_PRs-A+-3b82f6?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🏆_Repos-A+-0ea5e9?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🏆_Stars-A-6366f1?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
